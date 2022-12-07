@@ -1,0 +1,3 @@
+- 👋 Hi, I’m youya
+- 👀 I’m interested in read、code and sleep
+- 🌱 I’m currently learning basic knowledge of front end
